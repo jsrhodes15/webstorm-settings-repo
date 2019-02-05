@@ -1,0 +1,45 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.13.0/bin/node">
+      <version-cache version="10.13.0" last-modified="1540888329000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/node">
+      <version-cache version="8.11.1" last-modified="1522365301000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="233-112-15-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.63873625" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.60470587" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="eslint" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSX Harmony" value="false" />
+    <property name="PLUGIN_FILTER" value="editor&#10;go-lang&#10;golang&#10;go&#10;Theme" />
+    <property name="SearchEveryWhereHistory" value="&quot;" />
+    <property name="TrendingPluginsSearchHistory" value="sortBy:downloads&#10;sortBy:updated&#10;material&#10;rainbo&#10;recogneyes" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.181" value="13" />
+    <property name="evlsprt3.182" value="15" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Developer/@commack/property-registry-react/src" />
+    <property name="file.gist.reindex.count" value="293819" />
+    <property name="fileTypeChangedCounter" value="21" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="INJECTED_LANGUAGE_FRAGMENT" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.65619045" />
+  </component>
+</application>

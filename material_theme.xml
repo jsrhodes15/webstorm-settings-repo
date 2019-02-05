@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
     <option name="darkTitleBar" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
